@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "sync": "git pull | git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varun-Pradeep/Hello-World.git"
+  },
+  "author": "Ascent817",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varun-Pradeep/Hello-World/issues"
+  },
+  "homepage": "https://github.com/Varun-Pradeep/Hello-World#readme"
+}
